@@ -1,0 +1,47 @@
+.body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+padding: 0.1px;
+}
+.main{
+    border: 2px solid black;
+    margin-left: 35rem;
+    height: 35rem;
+    width: 30em;
+    border-radius: 10px;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    background-color: #ffffff;
+    
+}
+.main1{
+    margin-left: 3.5rem;
+}
+.main1 h1{
+    font-size: 3rem;
+    margin-left: 4rem;
+}
+.input{
+    padding: 0.5rem;
+    width: 22rem;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.input1{
+    padding: 0.5rem;
+    width: 22rem;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 10px;
+}
+.label{
+    font-size: 1.5rem;
+}
+.btn{
+    margin-top: 1rem;
+    padding: 0.5rem;
+    width: 8rem;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
